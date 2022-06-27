@@ -1,5 +1,0 @@
-Скомпилированную в exe файл программу можно скачать по ссылке 
-https://cloud.mail.ru/public/cvZn/i8xq1NfTU
-
-Или скомпилировать самостоятельно, например через pyinstaller
-pyinstaller --onefile --noconsole --icon=icon.ico main.py
